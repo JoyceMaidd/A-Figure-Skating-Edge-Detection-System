@@ -8,8 +8,8 @@ The Figure Skating Edge and Motion Detection System is designed to enhance figur
 - Using Arduino and infrared distance sensors to detect figure skating edges with a precision of 0.01cm
 - Implemented real-time data transmission using a Wi-Fi module with TCP/IP for real time data transition
 
-<img width="476" alt="image" src="https://github.com/JoyceMaidd/A-Figure-Skating-Edge-Detection-System/assets/144640077/6ca81c62-343e-4bbd-9bde-40aaec0cd146">
-<img width="719" alt="image" src="https://github.com/JoyceMaidd/A-Figure-Skating-Edge-Detection-System/assets/144640077/3ec14863-ea20-494f-b59e-eb1ea9d0db61">
+![image](https://github.com/JoyceMaidd/A-Figure-Skating-Edge-Detection-System/assets/144640077/b7c923f4-8519-472a-84c0-80abdbcd8d91)
+![image](https://github.com/JoyceMaidd/A-Figure-Skating-Edge-Detection-System/assets/144640077/f9f74cba-856f-44ad-a8af-5bacd42c9db1)
 
 
 **Motion Detection System:**
