@@ -1,13 +1,14 @@
-# A-Figure-Skating-Edge-Detection-System
-Overview:
-This project addresses the need for precise edge detection in figure skating, aiming to enhance teaching efficiency and learning experiences.
-With the growing interest in figure skating, especially with the 2022 Beijing Winter Olympics, the demand for effective training tools is increasing. 
-Many figure skating movements require specific edge utilization, but due to factors like high skating speeds and obscured views, coaches often struggle to assess edge usage accurately. 
-This project aims to fill this gap by providing a visual and clear representation of edge utilization during skating.
+# A-Figure-Skating-Edge-and-Motion-Detection-System
+**Overview:**
 
-Project Description:
+The Figure Skating Edge and Motion Detection System is designed to enhance figure skating training and teaching efficiency by providing accurate edge and motion detection capabilities. The system consists of two components: an edge detection system built with Arduino and infrared distance sensors, and a motion detection system developed in Python using MediaPipe pose landmark detection.
 
-	•	Infrared distance sensors are strategically installed on both sides of the skate blades, collecting real-time data.
-	•	Collected data is processed through Arduino to calculate and analyze edge usage.
-	•	MediaPipe’s human posture recognition technology is employed to evaluate the skater’s actions and compare them to edge-specific requirements.
-	•	The project’s objective is to assist figure skating coaching by visually displaying edge utilization, aiding instructors in offering precise guidance.
+**Edge Detection System:**
+
+- Using Arduino and infrared distance sensors to detect figure skating edges with a precision of 0.01cm
+- Implemented real-time data transmission using a Wi-Fi module with TCP/IP for real time data transition
+
+**Motion Detection System:**
+
+- Developed in Python using MediaPipe pose landmark detection and inference with images
+- Enables accurate detection of figure skating movements, enhancing training and analysis capabilities
